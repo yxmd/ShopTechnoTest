@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopTechnoTest</string>
+    <string name="search">search</string>
+    <string name="search_product">search product</string>
+</resources>
